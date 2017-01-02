@@ -18,4 +18,3 @@ $dbh = null;
 <h1>Hello World from Mrevolution !!!</h1>
 <h3>PHP Version <?= phpversion() ?></h3>
 <h3>PHP Version <?= phpinfo() ?></h3>
-<a href="/static.html">Static HTML Page</a>
